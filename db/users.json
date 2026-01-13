@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "firstname": "Person",
+        "lastname": "Person",
+        "email": "person@gmail.com",
+        "password": "person123",
+        "createdAt": "12.01.2026, 15:47:12",
+        "product_price": 10,
+        "product_name": "nimadir"
+    },
+    {
+        "id": 2,
+        "firstname": "Person",
+        "lastname": "Person",
+        "email": "person2@gmail.com",
+        "password": "person123",
+        "createdAt": "12.01.2026, 15:50:05"
+    }
+]
